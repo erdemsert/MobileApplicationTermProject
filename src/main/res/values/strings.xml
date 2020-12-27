@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CFM</string>
+
+    <string name="personalInfo"> The Personal Information</string>
+
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="Age">Age:</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+
+    <string name="Hintname">Enter your name:</string>
+    <string name="Hintsurname">Enter your surname:</string>
+    <string name="Hintage">Enter your age:</string>
+    <string name="Hintheight">Enter your height:</string>
+    <string name="Hintweight">Enter your weight:</string>
+
+
+    <string name="gender">Gender:</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+
+    <string name="Login">Login</string>
+    <string name="back">BACK</string>
+
+    <string name="title">Select a Meal Category</string>
+    <string name="newMeals">New Meals are Coming..!</string>
+<string name="dailyCalorie">Daily Calorie Requirements</string>
+    <string name="Add">Add</string>
+    <string name="Delete">Delete</string>
+    <string name="Display"> Display Added Item</string>
+    <string name="Close">Close</string>
+
+</resources>
